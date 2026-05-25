@@ -74,12 +74,6 @@ Na Sprint 1, a visao computacional e a previsao serao simuladas no prototipo. A 
 | JSON simulado | Base inicial | Viabiliza o MVP sem backend, dados internos da Motiva ou modelo real de IA. |
 | Figma | Prototipo navegavel | Permite validar telas, identidade visual e fluxo principal antes da implementacao. |
 
-## Justificativa tecnica
-
-A Sprint 1 pede proposta mobile, requisitos, documentacao e prototipo navegavel. React Native com Expo e adequado porque permite desenvolver rapidamente uma experiencia mobile proxima do app real, com recursos nativos importantes para a proposta: camera, localizacao e armazenamento local.
-
-Como o grupo ainda nao possui imagens rotuladas, historico real ou acesso a sistemas internos da Motiva, a Sprint 1 usa dados simulados. Isso mantem a proposta viavel e evita prometer uma IA completa antes da validacao tecnica. A medicao automatica por visao computacional e a previsao de crescimento ficam representadas no Figma e documentadas como evolucao para as proximas sprints.
-
 ## Documento de requisitos
 
 O levantamento de requisitos esta disponivel em:
