@@ -110,18 +110,3 @@ Login → Dashboard
 ## Protótipo Figma (Sprint 1)
 
 https://www.figma.com/make/3Psh6k7cLO2SiDWW5qWvHj/Prototipo-Monitoramento-Grama?t=fapbGbizSWPnklNG-1&preview-route=%2Flogin
-
----
-
-## Status da Sprint 2
-
-- [x] App React Native/Expo em JavaScript puro (sem TypeScript)
-- [x] 6 telas funcionais com navegação Stack + Bottom Tabs
-- [x] Mock de dados realistas: 10 trechos, 5 rodovias SP, histórico de 4 ciclos
-- [x] Fluxo completo: Login → Dashboard → Detalhe → Priorizar → Confirmação → Dashboard
-- [x] Dados mockados centralizados em `src/dados.js` (sem Context API — mais simples)
-- [x] Gráfico de barras com histórico de crescimento na tela Detalhe
-- [x] Ranking de prioridades ordenado por urgência
-- [x] Cronograma semanal agrupado por dia e equipe
-- [x] Consistência visual com protótipo Sprint 1 (cores #0B5C46, #1F9D66, #F2B705, #D64545)
-- [x] Vídeo de demonstração gravado
