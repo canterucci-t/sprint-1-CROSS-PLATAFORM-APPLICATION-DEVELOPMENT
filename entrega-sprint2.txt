@@ -1,0 +1,12 @@
+Integrantes:
+- Nome: Erick Gimenez | RM: RM564748
+- Nome: Henrique Boscoli | RM: RM563651
+- Nome: Joao Henrique | RM: RM563578
+- Nome: Sergio Mirabelo | RM: RM562161
+- Nome: Tomazzo Canterucci | RM: RM565566
+
+Link do repositorio GitHub:
+https://github.com/canterucci-t/sprint-1-CROSS-PLATAFORM-APPLICATION-DEVELOPMENT.git
+
+Link do video de demonstracao no YouTube (nao listado):
+https://youtu.be/MmkFlXuWO80

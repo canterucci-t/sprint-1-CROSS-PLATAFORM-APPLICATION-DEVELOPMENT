@@ -1,0 +1,34 @@
+{
+  "name": "monitoramento-grama-motiva",
+  "version": "2.0.0",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "expo": "^56.0.12",
+    "expo-camera": "~56.0.8",
+    "expo-location": "~56.0.18",
+    "expo-notifications": "~56.0.18",
+    "expo-status-bar": "~56.0.4",
+    "react": "19.2.3",
+    "react-native": "0.85.3",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "4.25.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "~19.2.14",
+    "babel-preset-expo": "~12.0.0",
+    "typescript": "~6.0.3"
+  },
+  "private": true,
+  "overrides": {
+    "@react-native/codegen": "0.85.3"
+  }
+}

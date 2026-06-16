@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Monitoramento de Grama",
+    "slug": "monitoramento-grama",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F6F8FA",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.motiva.monitoramentograma"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B5C46"
+      },
+      "package": "com.motiva.monitoramentograma"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "O app precisa da câmera para registrar evidências dos trechos vistoriados."
+        }
+      ],
+      [
+        "expo-location",
+        {
+          "locationAlwaysAndWhenInUsePermission": "O app precisa da localização para associar trechos aos registros de vistoria."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png",
+          "color": "#0B5C46"
+        }
+      ]
+    ]
+  }
+}
